@@ -1,4 +1,6 @@
-Jeremy = 1
-Beytu = 1
-Kaan = 1
-Milad = 8
+
+Jeremy = 50
+Beytu = 67
+Kaan = 66
+Milad = 1
+>>>>>>> origin/main
