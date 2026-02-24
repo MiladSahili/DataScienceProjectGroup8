@@ -1,4 +1,4 @@
-Jeremy = 1
+Jeremy = 50
 Beytu = 1
 Kaan = 1
 Milad = 1
